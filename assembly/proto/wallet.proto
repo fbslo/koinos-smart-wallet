@@ -1,11 +1,13 @@
 syntax = "proto3";
 
+import "koinos/options.proto";
+
 package wallet;
 
 // @description Initializes the wallet
 // @read-only true
 message initialize_arguments {
-  bytes owner = 1 [(koinos.btype) = ADDRESS];
+  bytes owner = 1 [(koinos.btype) = HEX];
 }
 
 message initialize_result {

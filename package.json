@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "license": "MIT",
   "dependencies": {
+    "@koinos/sdk-as": "^1.0.2"
   },
   "devDependencies": {
     "@as-covers/core": "^0.2.1",

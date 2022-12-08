@@ -7,6 +7,8 @@ export class Wallet {
   isInitialized: bool;
 
   constructor(){
+    this.owner = new Uint8Array(0);
+    this.nonce = 0;
     this.isInitialized = false;
   }
 
@@ -44,6 +46,6 @@ export class Wallet {
 
     this.nonce += 1;
 
-    const callResult = System.call(contract_id, entry_point, contract_args);
+    const callResult = System.call(contractId, entryPoint, contractArgs);
   }
 }

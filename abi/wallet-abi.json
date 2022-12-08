@@ -1,0 +1,76 @@
+{
+    "methods": {
+        "initialize": {
+            "input": "wallet.initialize_arguments",
+            "output": "wallet.initialize_result",
+            "description": "Initializes the wallet",
+            "entryPoint": 1192148610,
+            "readOnly": true
+        },
+        "call": {
+            "input": "wallet.call_arguments",
+            "output": "wallet.call_result",
+            "description": "Calls a contract",
+            "entryPoint": 2128295439,
+            "readOnly": true
+        }
+    },
+    "types": {
+        "nested": {
+            "wallet": {
+                "nested": {
+                    "initialize_arguments": {
+                        "fields": {
+                            "owner": {
+                                "type": "bytes",
+                                "id": 1,
+                                "options": {
+                                    "(koinos.btype)": "HEX"
+                                }
+                            }
+                        }
+                    },
+                    "initialize_result": {
+                        "fields": {
+                            "value": {
+                                "type": "bool",
+                                "id": 1
+                            }
+                        }
+                    },
+                    "call_arguments": {
+                        "fields": {
+                            "contractId": {
+                                "type": "bytes",
+                                "id": 1,
+                                "options": {
+                                    "(koinos.btype)": "CONTRACT_ID"
+                                }
+                            },
+                            "entryPoint": {
+                                "type": "uint32",
+                                "id": 2
+                            },
+                            "contractArgs": {
+                                "type": "bytes",
+                                "id": 3
+                            },
+                            "nonce": {
+                                "type": "uint32",
+                                "id": 4
+                            }
+                        }
+                    },
+                    "call_result": {
+                        "fields": {
+                            "value": {
+                                "type": "bool",
+                                "id": 1
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
