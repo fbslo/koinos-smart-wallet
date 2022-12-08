@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+package wallet;
+
+// @description Initializes the wallet
+// @read-only true
+message initialize_arguments {
+  bytes owner = 1 [(koinos.btype) = ADDRESS];
+}
+
+message initialize_result {
+  bool value = 1;
+}
+
+// @description Calls a contract
+// @read-only true
+message call_arguments {
+  bytes contractId = 1 [(koinos.btype) = CONTRACT_ID];
+  uint32 entryPoint = 2;
+  bytes contractArgs = 3;
+  uint32 nonce = 4;
+}
+
+message call_result {
+  bool value = 1;
+}
