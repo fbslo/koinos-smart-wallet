@@ -28,6 +28,7 @@ export class Wallet {
     const entryPoint = args.entryPoint!;
     const contractArgs = args.contractArgs!;
     const nonce = args.nonce!;
+    const signature = args.signature!;
 
     System.require(nonce == this.nonce, "Nonce not valid");
 
