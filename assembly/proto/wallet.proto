@@ -21,6 +21,7 @@ message call_arguments {
   uint32 entryPoint = 2;
   bytes contractArgs = 3;
   uint32 nonce = 4;
+  bytes signature = 5;
 }
 
 message call_result {
