@@ -1,0 +1,19 @@
+{
+    "methods": {
+        "initialize": {
+            "argument": "wallet.initialize_arguments",
+            "return": "wallet.initialize_result",
+            "description": "Initializes the wallet",
+            "entry-point": "0x470ebe82",
+            "read-only": false
+        },
+        "call": {
+            "argument": "wallet.call_arguments",
+            "return": "wallet.call_result",
+            "description": "Calls another contract",
+            "entry-point": "0x7edb360f",
+            "read-only": false
+        }
+    },
+    "types": "CvgCChthc3NlbWJseS9wcm90by93YWxsZXQucHJvdG8SBndhbGxldBoUa29pbm9zL29wdGlvbnMucHJvdG8iMgoUaW5pdGlhbGl6ZV9hcmd1bWVudHMSGgoFb3duZXIYASABKAxCBIC1GAJSBW93bmVyIikKEWluaXRpYWxpemVfcmVzdWx0EhQKBXZhbHVlGAEgASgIUgV2YWx1ZSKuAQoOY2FsbF9hcmd1bWVudHMSJAoKY29udHJhY3RJZBgBIAEoDEIEgLUYBVIKY29udHJhY3RJZBIeCgplbnRyeVBvaW50GAIgASgNUgplbnRyeVBvaW50EiIKDGNvbnRyYWN0QXJncxgDIAEoDFIMY29udHJhY3RBcmdzEhQKBW5vbmNlGAQgASgNUgVub25jZRIcCglzaWduYXR1cmUYBSABKAxSCXNpZ25hdHVyZSIjCgtjYWxsX3Jlc3VsdBIUCgV2YWx1ZRgBIAEoCFIFdmFsdWViBnByb3RvMw=="
+}
