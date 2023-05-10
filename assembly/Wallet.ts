@@ -1,4 +1,4 @@
-import { chain, System, Base58, Token, Crypto, claim, Arrays, StringBytes, authority } from "@koinos/sdk-as";
+import { chain, System, Base58, Base64, Token, Crypto, claim, Arrays, StringBytes, authority } from "@koinos/sdk-as";
 import { wallet } from "./proto/wallet";
 
 export class Wallet {
@@ -47,18 +47,23 @@ export class Wallet {
     const contractIdString = Arrays.toHexString(contractId);
 
     // Prepare original signed message
-    const messageData   = `koinos-smart-wallet-call-${contractIdString}-${entryPoint}-${contractArgs}-${nonce}`;
-    const messageHash   = System.hash(Crypto.multicodec.keccak_256, StringBytes.stringToBytes(messageData))
-    const signedMessage = `\x19Ethereum Signed Message:\n${messageHash!.length}${messageHash!}`;
+    const message       = `koinos`; //`koinos-smart-wallet-call-${contractIdString}-${entryPoint}-${contractArgs}-${nonce}`;
+
+    const prefix        = `\x19Ethereum Signed Message:\n${message.length}`;
+    const signedMessage = prefix + message;
 
     // Hash recreated message and recover public key from provided signature
     let multihashBytes  = System.hash(Crypto.multicodec.keccak_256, StringBytes.stringToBytes(signedMessage));
     let publicKey       = System.recoverPublicKey(signature, multihashBytes!, chain.dsa.ecdsa_secp256k1, false);
-    // let pubKeyMultihash = System.hash(Crypto.multicodec.keccak_256, publicKey!.subarray(1));
-    // let multiHash       = new Crypto.Multihash();
-    // multiHash.deserialize(multihashBytes!);
 
-    // System.require(Arrays.equal(multiHash.digest.subarray(-20), this.owner), "signer != owner: ethereum address mismatch");
+    multihashBytes      = System.hash(Crypto.multicodec.keccak_256, publicKey!.subarray(1));
+    let mh              = new Crypto.Multihash();
+    mh.deserialize(multihashBytes!);
+
+    System.log(`Owner:  ` + Arrays.toHexString(this.owner));
+    System.log(`signer: ` + Arrays.toHexString(mh.digest.subarray(-20)));
+
+    System.require(Arrays.equal(mh.digest.subarray(-20), this.owner), "signer != owner: ethereum address mismatch");
 
     // // Make external call
     // const callResult = System.call(contractId, entryPoint, contractArgs);

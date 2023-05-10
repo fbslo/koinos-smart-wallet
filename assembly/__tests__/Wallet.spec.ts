@@ -43,11 +43,11 @@ describe('wallet', () => {
   it("should call another contract", () => {
     // Create a token, mint 1000 tokens to wallet contract, send them to receiver address
     const tkn = new Token(TOKEN_ID);
-    const m = tkn.mint(CONTRACT_ID, 1000);
+    tkn.mint(CONTRACT_ID, 1000);
 
     const c = new Wallet();
     const initArgs = new wallet.initialize_arguments(Arrays.fromHexString(OWNER));
-    const i = c.initialize(initArgs);
+    c.initialize(initArgs);
 
     const from = CONTRACT_ID;
     const to = RECEIVER;
@@ -56,15 +56,13 @@ describe('wallet', () => {
 
     // Prepare transaction
     const contractId = CONTRACT_ID;
+    const contractIdString = Arrays.toHexString(contractId);
     const entryPoint = 0x27f576ca; // Transfer
     const contractArgs = Protobuf.encode(args, token.transfer_arguments.encode); // Already protobuf encoded, in Uint8Array
     const nonce = 0;
 
-    const contractIdString = Arrays.toHexString(contractId);
-
-    const signature = `MjAzODhlYTA0MDE0M2JiZDU0MjM3YjEzYmI0MzMwYjBkY2JjZTNiN2Q2ZDU4YTI5MDVjNjJjYTQ2OTYyY2Y2NzU3NmZiNmYwZGY1YTQ4MGEyMTQxZTFlNzhmOTA2Mzk0YjI1ZjhmZTM1MjQ4M2FlNjRjODgwNjg4Mjk1Nzk0MmUxMQ==`;
-    const signature2 = `388ea040143bbd54237b13bb4330b0dcbce3b7d6d58a2905c62ca46962cf67576fb6f0df5a480a2141e1e78f906394b25f8fe352483ae64c8806882957942e111c`;
-    const s = StringBytes.stringToBytes(signature2);
+    const signature = `H3szHe6YaCXL2RQF6ocZmTFf5Pm2pJR1HFBPUzJTv282Te9Nrsm3g_znD-fxq92NSjR8KpQZq6z9pMM9cufaEqc=`;
+    const s = Base64.decode(signature);
     c.call(new wallet.call_arguments(contractId, entryPoint, contractArgs, nonce, s));
   });
 });
