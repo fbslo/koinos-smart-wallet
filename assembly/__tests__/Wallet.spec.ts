@@ -62,7 +62,7 @@ describe('wallet', () => {
     const nonce = 0;
 
     const signature = `H3szHe6YaCXL2RQF6ocZmTFf5Pm2pJR1HFBPUzJTv282Te9Nrsm3g_znD-fxq92NSjR8KpQZq6z9pMM9cufaEqc=`;
-    const s = Base64.decode(signature);
+    const s = Base64.decode(signature); 
     c.call(new wallet.call_arguments(contractId, entryPoint, contractArgs, nonce, s));
   });
 });

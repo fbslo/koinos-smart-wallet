@@ -16,12 +16,15 @@ type="text/javascript"
         const exampleMessage = 'koinos';
         try {
             const from = accounts[0];
+
+            const signer = (new ethers.providers.Web3Provider(window.ethereum)).getSigner()
+            const sign = await signer.signMessage(exampleMessage)
             
-            const msg = `0x${ethereumjs.Buffer.Buffer.from(exampleMessage, 'utf8').toString('hex')}`;
-            const sign = await ethereum.request({
-                method: 'personal_sign',
-                params: [msg, from],
-            });
+            // const msg = `0x${ethereumjs.Buffer.Buffer.from(exampleMessage, 'utf8').toString('hex')}`;
+            // const sign = await ethereum.request({
+            //     method: 'personal_sign',
+            //     params: [msg, from],
+            // });
             console.log(`Signature: ${sign}`)
 
             const { r, s, recoveryParam } = ethers.utils.splitSignature(sign)

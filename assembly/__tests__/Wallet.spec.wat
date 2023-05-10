@@ -116,26 +116,26 @@
  (data (i32.const 17500) "\1c\00\00\00\00\00\00\00\00\00\00\00,\00\00\00\08\00\00\00\0c\00\00\00\00\00\00\00\00\00\00\00")
  (data (i32.const 17532) "\1c\00\00\00\00\00\00\00\00\00\00\00.\00\00\00\08\00\00\00\0d\00\00\00\00\00\00\00\00\00\00\00")
  (data (i32.const 17564) "\1c\00\00\00\00\00\00\00\00\00\00\000\00\00\00\08\00\00\00\0e\00\00\00\00\00\00\00\00\00\00\00")
- (data (i32.const 17596) "\cc\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00\b0\00\00\00H\003\00s\00z\00H\00e\006\00Y\00a\00C\00X\00L\002\00R\00Q\00F\006\00o\00c\00Z\00m\00T\00F\00f\005\00P\00m\002\00p\00J\00R\001\00H\00F\00B\00P\00U\00z\00J\00T\00v\002\008\002\00T\00e\009\00N\00r\00s\00m\003\00g\00_\00z\00n\00D\00-\00f\00x\00q\009\002\00N\00S\00j\00R\008\00K\00p\00Q\00Z\00q\006\00z\009\00p\00M\00M\009\00c\00u\00f\00a\00E\00q\00c\00=\00\00\00\00\00\00\00\00\00\00\00\00\00")
- (data (i32.const 17804) "\1c\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00\02\00\00\00=\00\00\00\00\00\00\00\00\00\00\00")
- (data (i32.const 17836) "\8c\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00{\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00>?>>?456789:;<=\00\00\00\00\00\00\00\00\01\02\03\04\05\06\07\08\t\n\0b\0c\0d\0e\0f\10\11\12\13\14\15\16\17\18\19\00\00\00\00?\00\1a\1b\1c\1d\1e\1f !\"#$%&\'()*+,-./0123\00")
- (data (i32.const 17980) "<\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00\1e\00\00\00N\00o\00n\00c\00e\00 \00n\00o\00t\00 \00v\00a\00l\00i\00d\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00")
- (data (i32.const 18044) "\1c\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00\0c\00\00\00k\00o\00i\00n\00o\00s\00")
- (data (i32.const 18076) "L\00\00\00\00\00\00\00\00\00\00\00\01\00\00\004\00\00\00\19\00E\00t\00h\00e\00r\00e\00u\00m\00 \00S\00i\00g\00n\00e\00d\00 \00M\00e\00s\00s\00a\00g\00e\00:\00\n\00\00\00\00\00\00\00\00\00")
- (data (i32.const 18156) ",\00\00\00\00\00\00\00\00\00\00\002\00\00\00\14\00\00\00\b0F\00\00\00\00\00\00P\07\00\00\00\00\00\00P\07\00\00\00\00\00\00\00\00\00\00")
- (data (i32.const 18204) "\1c\00\00\00\00\00\00\00\00\00\00\004\00\00\00\08\00\00\00\0f\00\00\00\00\00\00\00\00\00\00\00")
- (data (i32.const 18236) "\1c\00\00\00\00\00\00\00\00\00\00\006\00\00\00\08\00\00\00\10\00\00\00\00\00\00\00\00\00\00\00")
- (data (i32.const 18268) "\1c\00\00\00\00\00\00\00\00\00\00\008\00\00\00\08\00\00\00\11\00\00\00\00\00\00\00\00\00\00\00")
- (data (i32.const 18300) "\1c\00\00\00\00\00\00\00\00\00\00\00:\00\00\00\08\00\00\00\12\00\00\00\00\00\00\00\00\00\00\00")
- (data (i32.const 18332) ",\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00\10\00\00\00O\00w\00n\00e\00r\00:\00 \00 \00\00\00\00\00\00\00\00\00\00\00\00\00")
- (data (i32.const 18380) "\1c\00\00\00\00\00\00\00\00\00\00\00?\00\00\00\08\00\00\00\13\00\00\00\00\00\00\00\00\00\00\00")
- (data (i32.const 18412) ",\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00\10\00\00\00s\00i\00g\00n\00e\00r\00:\00 \00\00\00\00\00\00\00\00\00\00\00\00\00")
- (data (i32.const 18460) "\\\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00D\00\00\00~\00l\00i\00b\00/\00@\00k\00o\00i\00n\00o\00s\00/\00s\00d\00k\00-\00a\00s\00/\00u\00t\00i\00l\00/\00a\00r\00r\00a\00y\00s\00.\00t\00s\00\00\00\00\00\00\00\00\00")
- (data (i32.const 18556) "l\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00T\00\00\00s\00i\00g\00n\00e\00r\00 \00!\00=\00 \00o\00w\00n\00e\00r\00:\00 \00e\00t\00h\00e\00r\00e\00u\00m\00 \00a\00d\00d\00r\00e\00s\00s\00 \00m\00i\00s\00m\00a\00t\00c\00h\00\00\00\00\00\00\00\00\00")
- (data (i32.const 18668) "\1c\00\00\00\00\00\00\00\00\00\00\00\18\00\00\00\08\00\00\00\14\00\00\00\00\00\00\00\00\00\00\00")
- (data (i32.const 18700) "\1c\00\00\00\00\00\00\00\00\00\00\00\18\00\00\00\08\00\00\00\15\00\00\00\00\00\00\00\00\00\00\00")
- (data (i32.const 18732) "\1c\00\00\00\00\00\00\00\00\00\00\00\18\00\00\00\08\00\00\00\16\00\00\00\00\00\00\00\00\00\00\00")
- (data (i32.const 18764) "\8c\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00n\00\00\00n\00o\00d\00e\00_\00m\00o\00d\00u\00l\00e\00s\00/\00@\00a\00s\00-\00p\00e\00c\00t\00/\00a\00s\00s\00e\00m\00b\00l\00y\00/\00a\00s\00s\00e\00m\00b\00l\00y\00/\00i\00n\00t\00e\00r\00n\00a\00l\00/\00l\00o\00g\00.\00t\00s\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 17596) "\8c\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00n\00\00\00n\00o\00d\00e\00_\00m\00o\00d\00u\00l\00e\00s\00/\00@\00a\00s\00-\00p\00e\00c\00t\00/\00a\00s\00s\00e\00m\00b\00l\00y\00/\00a\00s\00s\00e\00m\00b\00l\00y\00/\00i\00n\00t\00e\00r\00n\00a\00l\00/\00l\00o\00g\00.\00t\00s\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 17740) "\cc\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00\b0\00\00\00H\003\00s\00z\00H\00e\006\00Y\00a\00C\00X\00L\002\00R\00Q\00F\006\00o\00c\00Z\00m\00T\00F\00f\005\00P\00m\002\00p\00J\00R\001\00H\00F\00B\00P\00U\00z\00J\00T\00v\002\008\002\00T\00e\009\00N\00r\00s\00m\003\00g\00_\00z\00n\00D\00-\00f\00x\00q\009\002\00N\00S\00j\00R\008\00K\00p\00Q\00Z\00q\006\00z\009\00p\00M\00M\009\00c\00u\00f\00a\00E\00q\00c\00=\00\00\00\00\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 17948) "\1c\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00\02\00\00\00=\00\00\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 17980) "\8c\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00{\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00>?>>?456789:;<=\00\00\00\00\00\00\00\00\01\02\03\04\05\06\07\08\t\n\0b\0c\0d\0e\0f\10\11\12\13\14\15\16\17\18\19\00\00\00\00?\00\1a\1b\1c\1d\1e\1f !\"#$%&\'()*+,-./0123\00")
+ (data (i32.const 18124) "<\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00\1e\00\00\00N\00o\00n\00c\00e\00 \00n\00o\00t\00 \00v\00a\00l\00i\00d\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 18188) "\1c\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00\0c\00\00\00k\00o\00i\00n\00o\00s\00")
+ (data (i32.const 18220) "L\00\00\00\00\00\00\00\00\00\00\00\01\00\00\004\00\00\00\19\00E\00t\00h\00e\00r\00e\00u\00m\00 \00S\00i\00g\00n\00e\00d\00 \00M\00e\00s\00s\00a\00g\00e\00:\00\n\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 18300) ",\00\00\00\00\00\00\00\00\00\00\002\00\00\00\14\00\00\00@G\00\00\00\00\00\00P\07\00\00\00\00\00\00P\07\00\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 18348) "\1c\00\00\00\00\00\00\00\00\00\00\004\00\00\00\08\00\00\00\0f\00\00\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 18380) "\1c\00\00\00\00\00\00\00\00\00\00\006\00\00\00\08\00\00\00\10\00\00\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 18412) "\1c\00\00\00\00\00\00\00\00\00\00\008\00\00\00\08\00\00\00\11\00\00\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 18444) "\1c\00\00\00\00\00\00\00\00\00\00\00:\00\00\00\08\00\00\00\12\00\00\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 18476) ",\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00\10\00\00\00O\00w\00n\00e\00r\00:\00 \00 \00\00\00\00\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 18524) "\1c\00\00\00\00\00\00\00\00\00\00\00?\00\00\00\08\00\00\00\13\00\00\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 18556) ",\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00\10\00\00\00s\00i\00g\00n\00e\00r\00:\00 \00\00\00\00\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 18604) "\\\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00D\00\00\00~\00l\00i\00b\00/\00@\00k\00o\00i\00n\00o\00s\00/\00s\00d\00k\00-\00a\00s\00/\00u\00t\00i\00l\00/\00a\00r\00r\00a\00y\00s\00.\00t\00s\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 18700) "l\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00T\00\00\00s\00i\00g\00n\00e\00r\00 \00!\00=\00 \00o\00w\00n\00e\00r\00:\00 \00e\00t\00h\00e\00r\00e\00u\00m\00 \00a\00d\00d\00r\00e\00s\00s\00 \00m\00i\00s\00m\00a\00t\00c\00h\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 18812) "\1c\00\00\00\00\00\00\00\00\00\00\00\18\00\00\00\08\00\00\00\14\00\00\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 18844) "\1c\00\00\00\00\00\00\00\00\00\00\00\18\00\00\00\08\00\00\00\15\00\00\00\00\00\00\00\00\00\00\00")
+ (data (i32.const 18876) "\1c\00\00\00\00\00\00\00\00\00\00\00\18\00\00\00\08\00\00\00\16\00\00\00\00\00\00\00\00\00\00\00")
  (data (i32.const 18908) "\8c\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00p\00\00\00n\00o\00d\00e\00_\00m\00o\00d\00u\00l\00e\00s\00/\00@\00a\00s\00-\00p\00e\00c\00t\00/\00a\00s\00s\00e\00m\00b\00l\00y\00/\00a\00s\00s\00e\00m\00b\00l\00y\00/\00i\00n\00t\00e\00r\00n\00a\00l\00/\00c\00a\00l\00l\00.\00t\00s\00\00\00\00\00\00\00\00\00\00\00\00\00")
  (data (i32.const 19052) "\\\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00H\00\00\00M\00i\00s\00s\00i\00n\00g\00 \00f\00o\00r\00k\00(\00)\00 \00b\00e\00f\00o\00r\00e\00 \00l\00d\00e\00l\00i\00m\00(\00)\00 \00c\00a\00l\00l\00.\00\00\00\00\00")
  (data (i32.const 19148) "\\\00\00\00\00\00\00\00\00\00\00\00\01\00\00\00H\00\00\00~\00l\00i\00b\00/\00a\00s\00-\00p\00r\00o\00t\00o\00/\00i\00n\00t\00e\00r\00n\00a\00l\00/\00F\00i\00x\00e\00d\00S\00i\00z\00e\00r\00.\00t\00s\00\00\00\00\00")
@@ -162,6 +162,7 @@
  (import "__aspect" "createReflectedValue" (func $node_modules/@as-pect/assembly/assembly/internal/Reflect/createReflectedValue (param i32 i32 i32 i32 i32 i32 i32 i32 i32 i32 i32 i32 i32) (result i32)))
  (import "__aspect" "reportTestTypeNode" (func $node_modules/@as-pect/assembly/assembly/internal/Test/it (param i32 i32)))
  (import "__aspect" "tryCall" (func $node_modules/@as-pect/assembly/assembly/internal/Expectation/tryCall (param i32) (result i32)))
+ (import "__aspect" "logReflectedValue" (func $node_modules/@as-pect/assembly/assembly/internal/log/logReflectedValue (param i32)))
  (import "__aspect" "reportGroupTypeNode" (func $node_modules/@as-pect/assembly/assembly/internal/Test/describe (param i32 i32)))
  (import "rtrace" "onstore" (func $~onstore (param i32 i32 i32 i32) (result i32)))
  (global $~argumentsLength (mut i32) (i32.const 0))
@@ -187,6 +188,7 @@
  (global $assembly/__tests__/Wallet.spec/TOKEN_ID (mut i32) (i32.const 0))
  (global $assembly/__tests__/Wallet.spec/RECEIVER (mut i32) (i32.const 0))
  (global $assembly/__tests__/Wallet.spec/OWNER (mut i32) (i32.const 0))
+ (global $node_modules/@as-pect/assembly/assembly/internal/log/ignoreLogs (mut i32) (i32.const 0))
  (global $~lib/@koinos/sdk-as/util/base64/Base64.ALPHAVALUES (mut i32) (i32.const 0))
  (global $~lib/memory/__stack_pointer (mut i32) (i32.const 36356))
  (global $~started (mut i32) (i32.const 0))
@@ -755,7 +757,7 @@
    local.get $0
    call $byn-split-outlined-A$~lib/rt/itcms/__visit
   end
-  i32.const 17824
+  i32.const 17968
   call $byn-split-outlined-A$~lib/rt/itcms/__visit
   global.get $~lib/@koinos/sdk-as/util/base64/Base64.ALPHAVALUES
   local.tee $0
@@ -6888,7 +6890,7 @@
   local.get $0
   i32.const 2
   i32.shl
-  i32.const 18176
+  i32.const 18320
   i32.add
   i32.const 0
   i32.const 4
@@ -6898,7 +6900,7 @@
   i32.store
   local.get $1
   if
-   i32.const 18176
+   i32.const 18320
    local.get $1
    i32.const 1
    call $byn-split-outlined-A$~lib/rt/itcms/__link
@@ -7149,6 +7151,10 @@
   call $~lib/index/__cover
   i32.const 855870159
   call $~lib/index/__cover
+  local.get $0
+  i32.const 0
+  i32.ne
+  global.set $node_modules/@as-pect/assembly/assembly/internal/log/ignoreLogs
  )
  (func $~lib/array/Array<i32>#__get (param $0 i32) (param $1 i32) (result i32)
   local.get $0
@@ -8997,140 +9003,54 @@
   i32.const 4
   i32.sub
   global.set $~lib/memory/__stack_pointer
-  block $folding-inner0
-   global.get $~lib/memory/__stack_pointer
-   i32.const 19972
-   i32.lt_s
-   br_if $folding-inner0
-   global.get $~lib/memory/__stack_pointer
-   i32.const 0
-   i32.const 4
-   i32.const 0
-   call $~onstore
-   i32.const 0
-   i32.store
-   global.get $~lib/memory/__stack_pointer
-   i32.const 0
-   i32.const 4
-   i32.const 0
-   call $~onstore
-   i32.const 18784
-   i32.store
-   i32.const 18784
-   i32.const 855870159
-   i32.const 7
-   i32.const 49
-   i32.const 1
-   call $~lib/index/__coverDeclare
-   global.get $~lib/memory/__stack_pointer
-   i32.const 0
-   i32.const 4
-   i32.const 0
-   call $~onstore
-   i32.const 18784
-   i32.store
-   i32.const 18784
-   i32.const 1354937306
-   i32.const 7
-   i32.const 1
-   i32.const 0
-   call $~lib/index/__coverDeclare
-   global.get $~lib/memory/__stack_pointer
-   i32.const 0
-   i32.const 4
-   i32.const 0
-   call $~onstore
-   i32.const 18784
-   i32.store
-   i32.const 18784
-   i32.const -387839943
-   i32.const 13
-   i32.const 40
-   i32.const 1
-   call $~lib/index/__coverDeclare
-   global.get $~lib/memory/__stack_pointer
-   i32.const 0
-   i32.const 4
-   i32.const 0
-   call $~onstore
-   i32.const 18784
-   i32.store
-   i32.const 18784
-   i32.const 175360833
-   i32.const 14
-   i32.const 19
-   i32.const 2
-   call $~lib/index/__coverDeclare
-   global.get $~lib/memory/__stack_pointer
-   i32.const 0
-   i32.const 4
-   i32.const 0
-   call $~onstore
-   i32.const 18784
-   i32.store
-   i32.const 18784
-   i32.const -1116785682
-   i32.const 12
-   i32.const 1
-   i32.const 0
-   call $~lib/index/__coverDeclare
-   global.get $~lib/memory/__stack_pointer
-   i32.const 4
-   i32.add
-   global.set $~lib/memory/__stack_pointer
-   global.get $~lib/memory/__stack_pointer
-   i32.const 4
-   i32.sub
-   global.set $~lib/memory/__stack_pointer
-   global.get $~lib/memory/__stack_pointer
-   i32.const 19972
-   i32.lt_s
-   br_if $folding-inner0
-   global.get $~lib/memory/__stack_pointer
-   i32.const 0
-   i32.const 4
-   i32.const 0
-   call $~onstore
-   i32.const 0
-   i32.store
-   global.get $~lib/memory/__stack_pointer
-   i32.const 0
-   i32.const 4
-   i32.const 0
-   call $~onstore
-   i32.const 18928
-   i32.store
-   i32.const 18928
-   i32.const 1981661110
-   i32.const 1
-   i32.const 48
-   i32.const 1
-   call $~lib/index/__coverDeclare
-   global.get $~lib/memory/__stack_pointer
-   i32.const 0
-   i32.const 4
-   i32.const 0
-   call $~onstore
-   i32.const 18928
-   i32.store
-   i32.const 18928
-   i32.const 63810754
+  global.get $~lib/memory/__stack_pointer
+  i32.const 19972
+  i32.lt_s
+  if
+   i32.const 36384
+   i32.const 36432
    i32.const 1
    i32.const 1
-   i32.const 0
-   call $~lib/index/__coverDeclare
-   global.get $~lib/memory/__stack_pointer
-   i32.const 4
-   i32.add
-   global.set $~lib/memory/__stack_pointer
-   return
+   call $~lib/wasi/index/abort
+   unreachable
   end
-  i32.const 36384
-  i32.const 36432
+  global.get $~lib/memory/__stack_pointer
+  i32.const 0
+  i32.const 4
+  i32.const 0
+  call $~onstore
+  i32.const 0
+  i32.store
+  global.get $~lib/memory/__stack_pointer
+  i32.const 0
+  i32.const 4
+  i32.const 0
+  call $~onstore
+  i32.const 18928
+  i32.store
+  i32.const 18928
+  i32.const 1981661110
+  i32.const 1
+  i32.const 48
+  i32.const 1
+  call $~lib/index/__coverDeclare
+  global.get $~lib/memory/__stack_pointer
+  i32.const 0
+  i32.const 4
+  i32.const 0
+  call $~onstore
+  i32.const 18928
+  i32.store
+  i32.const 18928
+  i32.const 63810754
   i32.const 1
   i32.const 1
-  call $~lib/wasi/index/abort
-  unreachable
+  i32.const 0
+  call $~lib/index/__coverDeclare
+  global.get $~lib/memory/__stack_pointer
+  i32.const 4
+  i32.add
+  global.set $~lib/memory/__stack_pointer
  )
  (func $start:assembly/proto/wallet
   global.get $~lib/memory/__stack_pointer
@@ -17424,7 +17344,7 @@
   call $~onstore
   i32.const 0
   i32.store offset=8
-  i32.const 17612
+  i32.const 17756
   i32.load
   i32.const 1
   i32.shr_u
@@ -17439,7 +17359,7 @@
    global.set $~lib/memory/__stack_pointer
    return
   end
-  i32.const 17616
+  i32.const 17760
   local.get $0
   i32.const 1
   i32.sub
@@ -17457,13 +17377,13 @@
   i32.const 4
   i32.const 0
   call $~onstore
-  i32.const 17824
+  i32.const 17968
   i32.store offset=4
   local.get $4
-  i32.const 17824
+  i32.const 17968
   call $~lib/string/String.__eq
   if
-   i32.const 17616
+   i32.const 17760
    local.get $0
    i32.const 2
    i32.sub
@@ -17481,12 +17401,12 @@
    i32.const 4
    i32.const 0
    call $~onstore
-   i32.const 17824
+   i32.const 17968
    i32.store offset=4
    i32.const 2
    i32.const 1
    local.get $3
-   i32.const 17824
+   i32.const 17968
    call $~lib/string/String.__eq
    select
    local.set $3
@@ -17530,7 +17450,7 @@
     local.get $4
     i32.store
     local.get $4
-    i32.const 17612
+    i32.const 17756
     i32.load
     i32.const 1
     i32.shr_u
@@ -17542,7 +17462,7 @@
      local.get $2
      i32.const 1
      i32.shl
-     i32.const 17616
+     i32.const 17760
      i32.add
      i32.load16_u
     end
@@ -17563,7 +17483,7 @@
     i32.const 1
     i32.add
     local.tee $4
-    i32.const 17612
+    i32.const 17756
     i32.load
     i32.const 1
     i32.shr_u
@@ -17574,7 +17494,7 @@
      local.get $4
      i32.const 1
      i32.shl
-     i32.const 17616
+     i32.const 17760
      i32.add
      i32.load16_u
     end
@@ -17596,7 +17516,7 @@
     i32.const 2
     i32.add
     local.tee $4
-    i32.const 17612
+    i32.const 17756
     i32.load
     i32.const 1
     i32.shr_u
@@ -17607,7 +17527,7 @@
      local.get $4
      i32.const 1
      i32.shl
-     i32.const 17616
+     i32.const 17760
      i32.add
      i32.load16_u
     end
@@ -17630,7 +17550,7 @@
     i32.const 3
     i32.add
     local.tee $6
-    i32.const 17612
+    i32.const 17756
     i32.load
     i32.const 1
     i32.shr_u
@@ -17641,7 +17561,7 @@
      local.get $6
      i32.const 1
      i32.shl
-     i32.const 17616
+     i32.const 17760
      i32.add
      i32.load16_u
     end
@@ -17710,7 +17630,7 @@
     local.get $0
     i32.store
     local.get $0
-    i32.const 17612
+    i32.const 17756
     i32.load
     i32.const 1
     i32.shr_u
@@ -17722,7 +17642,7 @@
      local.get $2
      i32.const 1
      i32.shl
-     i32.const 17616
+     i32.const 17760
      i32.add
      i32.load16_u
     end
@@ -17743,7 +17663,7 @@
     i32.const 1
     i32.add
     local.tee $0
-    i32.const 17612
+    i32.const 17756
     i32.load
     i32.const 1
     i32.shr_u
@@ -17754,7 +17674,7 @@
      local.get $0
      i32.const 1
      i32.shl
-     i32.const 17616
+     i32.const 17760
      i32.add
      i32.load16_u
     end
@@ -17776,7 +17696,7 @@
     i32.const 2
     i32.add
     local.tee $0
-    i32.const 17612
+    i32.const 17756
     i32.load
     i32.const 1
     i32.shr_u
@@ -17787,7 +17707,7 @@
      local.get $0
      i32.const 1
      i32.shl
-     i32.const 17616
+     i32.const 17760
      i32.add
      i32.load16_u
     end
@@ -17826,7 +17746,7 @@
    local.get $0
    i32.store
    local.get $0
-   i32.const 17612
+   i32.const 17756
    i32.load
    i32.const 1
    i32.shr_u
@@ -17838,7 +17758,7 @@
     local.get $2
     i32.const 1
     i32.shl
-    i32.const 17616
+    i32.const 17760
     i32.add
     i32.load16_u
    end
@@ -17863,7 +17783,7 @@
    i32.const 1
    i32.add
    local.tee $0
-   i32.const 17612
+   i32.const 17756
    i32.load
    i32.const 1
    i32.shr_u
@@ -17874,7 +17794,7 @@
     local.get $0
     i32.const 1
     i32.shl
-    i32.const 17616
+    i32.const 17760
     i32.add
     i32.load16_u
    end
@@ -18020,10 +17940,10 @@
    i32.const 4
    i32.const 0
    call $~onstore
-   i32.const 18224
+   i32.const 18368
    i32.store offset=4
    local.get $2
-   i32.const 18224
+   i32.const 18368
    call $~lib/as-proto/Protobuf/Protobuf.encode<~lib/@koinos/proto-as/koinos/chain/system_calls/system_calls.exit_arguments>
    local.tee $0
    i32.store offset=8
@@ -18090,7 +18010,7 @@
    i32.const 4
    i32.const 0
    call $~onstore
-   i32.const 18256
+   i32.const 18400
    i32.store offset=4
    global.get $~lib/@koinos/sdk-as/systemCalls/System.RETURN_BYTES
    local.set $2
@@ -18102,7 +18022,7 @@
    local.get $2
    i32.store offset=12
    local.get $1
-   i32.const 18256
+   i32.const 18400
    local.get $2
    call $~lib/typedarray/Uint32Array#__get
    call $~lib/as-proto/Protobuf/Protobuf.decode<~lib/@koinos/proto-as/koinos/chain/chain/chain.error_data>
@@ -18275,10 +18195,10 @@
    i32.const 4
    i32.const 0
    call $~onstore
-   i32.const 18288
+   i32.const 18432
    i32.store offset=4
    local.get $2
-   i32.const 18288
+   i32.const 18432
    call $~lib/as-proto/Protobuf/Protobuf.encode<~lib/@koinos/proto-as/koinos/chain/system_calls/system_calls.exit_arguments>
    local.tee $0
    i32.store offset=8
@@ -18345,7 +18265,7 @@
    i32.const 4
    i32.const 0
    call $~onstore
-   i32.const 18320
+   i32.const 18464
    i32.store offset=4
    global.get $~lib/@koinos/sdk-as/systemCalls/System.RETURN_BYTES
    local.set $2
@@ -18357,7 +18277,7 @@
    local.get $2
    i32.store offset=12
    local.get $1
-   i32.const 18320
+   i32.const 18464
    local.get $2
    call $~lib/typedarray/Uint32Array#__get
    call $~lib/as-proto/Protobuf/Protobuf.decode<~lib/@koinos/proto-as/koinos/chain/chain/chain.error_data>
@@ -18681,10 +18601,10 @@
    i32.const 4
    i32.const 0
    call $~onstore
-   i32.const 18400
+   i32.const 18544
    i32.store offset=4
    local.get $2
-   i32.const 18400
+   i32.const 18544
    call $~lib/as-proto/Protobuf/Protobuf.encode<~lib/@koinos/proto-as/koinos/chain/system_calls/system_calls.exit_arguments>
    local.tee $0
    i32.store offset=8
@@ -18905,9 +18825,9 @@
    i32.const 4
    i32.const 0
    call $~onstore
-   i32.const 18000
+   i32.const 18144
    i32.store offset=12
-   i32.const 18000
+   i32.const 18144
    call $~lib/@koinos/sdk-as/systemCalls/System.require<bool>
    local.get $0
    i32.load offset=4
@@ -18944,9 +18864,9 @@
    i32.const 4
    i32.const 0
    call $~onstore
-   i32.const 18064
+   i32.const 18208
    i32.store offset=20
-   i32.const 18060
+   i32.const 18204
    i32.load
    i32.const 1
    i32.shr_u
@@ -18958,14 +18878,14 @@
    i32.const 4
    i32.const 0
    call $~onstore
-   i32.const 18064
+   i32.const 18208
    i32.store offset=28
    global.get $~lib/memory/__stack_pointer
    i32.const 20
    i32.const 4
    i32.const 0
    call $~onstore
-   i32.const 18176
+   i32.const 18320
    i32.store offset=20
    i32.const 1
    local.get $4
@@ -18975,17 +18895,17 @@
    i32.const 4
    i32.const 0
    call $~onstore
-   i32.const 18176
+   i32.const 18320
    i32.store offset=20
    i32.const 3
-   i32.const 18064
+   i32.const 18208
    call $~lib/staticarray/StaticArray<~lib/string/String>#__uset
    global.get $~lib/memory/__stack_pointer
    i32.const 20
    i32.const 4
    i32.const 0
    call $~onstore
-   i32.const 18176
+   i32.const 18320
    i32.store offset=20
    global.get $~lib/memory/__stack_pointer
    i32.const 12
@@ -18994,7 +18914,7 @@
    call $~onstore
    i32.const 1872
    i32.store offset=12
-   i32.const 18172
+   i32.const 18316
    i32.load
    i32.const 2
    i32.shr_u
@@ -19183,7 +19103,7 @@
    i32.const 4
    i32.const 0
    call $~onstore
-   i32.const 18352
+   i32.const 18496
    i32.store offset=12
    local.get $0
    i32.load
@@ -19205,7 +19125,7 @@
    call $~onstore
    local.get $1
    i32.store offset=40
-   i32.const 18352
+   i32.const 18496
    local.get $1
    call $~lib/string/String#concat
    local.set $1
@@ -19223,7 +19143,7 @@
    i32.const 4
    i32.const 0
    call $~onstore
-   i32.const 18432
+   i32.const 18576
    i32.store offset=12
    local.get $4
    i32.load offset=8
@@ -19256,7 +19176,7 @@
    call $~onstore
    local.get $1
    i32.store offset=40
-   i32.const 18432
+   i32.const 18576
    local.get $1
    call $~lib/string/String#concat
    local.set $1
@@ -19346,7 +19266,7 @@
       local.get $1
      else
       i32.const 12848
-      i32.const 18480
+      i32.const 18624
       i32.const 24
       i32.const 9
       call $~lib/wasi/index/abort
@@ -19368,7 +19288,7 @@
       local.get $0
      else
       i32.const 12848
-      i32.const 18480
+      i32.const 18624
       i32.const 24
       i32.const 26
       call $~lib/wasi/index/abort
@@ -19392,7 +19312,7 @@
       i32.eqz
       if
        i32.const 12848
-       i32.const 18480
+       i32.const 18624
        i32.const 28
        i32.const 25
        call $~lib/wasi/index/abort
@@ -19414,7 +19334,7 @@
        i32.eqz
        if
         i32.const 12848
-        i32.const 18480
+        i32.const 18624
         i32.const 29
         i32.const 11
         call $~lib/wasi/index/abort
@@ -19435,7 +19355,7 @@
        i32.eqz
        if
         i32.const 12848
-        i32.const 18480
+        i32.const 18624
         i32.const 29
         i32.const 24
         call $~lib/wasi/index/abort
@@ -19479,9 +19399,9 @@
    i32.const 4
    i32.const 0
    call $~onstore
-   i32.const 18576
+   i32.const 18720
    i32.store offset=12
-   i32.const 18576
+   i32.const 18720
    call $~lib/@koinos/sdk-as/systemCalls/System.require<bool>
    global.get $~lib/rt/tlsf/ROOT
    i32.eqz
@@ -19993,6 +19913,41 @@
     call $~lib/as-proto/Protobuf/Protobuf.encode<~lib/@koinos/proto-as/koinos/chain/system_calls/system_calls.exit_arguments>
     local.tee $0
     i32.store offset=36
+    local.get $0
+    call $~lib/@koinos/sdk-as/util/arrays/Arrays.toHexString
+    local.set $3
+    global.get $~lib/memory/__stack_pointer
+    i32.const 40
+    i32.const 4
+    i32.const 0
+    call $~onstore
+    local.get $3
+    i32.store offset=40
+    i32.const -1116785682
+    call $~lib/index/__cover
+    i32.const -387839943
+    call $~lib/index/__cover
+    block $__inlined_func$node_modules/@as-pect/assembly/assembly/internal/log/log<~lib/string/String>
+     global.get $node_modules/@as-pect/assembly/assembly/internal/log/ignoreLogs
+     if
+      i32.const 175360833
+      call $~lib/index/__cover
+      br $__inlined_func$node_modules/@as-pect/assembly/assembly/internal/log/log<~lib/string/String>
+     end
+     i32.const 1
+     global.set $~argumentsLength
+     local.get $3
+     call $node_modules/@as-pect/assembly/assembly/internal/Reflect/Reflect.toReflectedValue<~lib/string/String>@varargs
+     local.set $3
+     i32.const 1700622831
+     call $~lib/index/__cover
+     i32.const -993196570
+     call $~lib/index/__cover
+     local.get $3
+     call $node_modules/@as-pect/assembly/assembly/internal/Reflect/attachStackTraceToReflectedValue
+     local.get $3
+     call $node_modules/@as-pect/assembly/assembly/internal/log/logReflectedValue
+    end
     global.get $~lib/memory/__stack_pointer
     i32.const 44
     i32.const 4
@@ -20003,7 +19958,7 @@
     i32.const 4
     i32.const 0
     call $~onstore
-    i32.const 17616
+    i32.const 17760
     i32.store offset=40
     call $~lib/@koinos/sdk-as/util/base64/Base64.decode
     local.tee $3
@@ -20238,10 +20193,10 @@
   i32.const 4
   i32.const 0
   call $~onstore
-  i32.const 18688
+  i32.const 18832
   i32.store offset=4
   i32.const 17408
-  i32.const 18688
+  i32.const 18832
   call $node_modules/@as-pect/assembly/assembly/internal/Test/it
   global.get $~lib/memory/__stack_pointer
   i32.const 8
@@ -20599,32 +20554,6 @@
     i32.const 1904
     i32.store
     i32.const 1904
-    i32.const -708933189
-    i32.const 19
-    i32.const 78
-    i32.const 1
-    call $~lib/index/__coverDeclare
-    global.get $~lib/memory/__stack_pointer
-    i32.const 0
-    i32.const 4
-    i32.const 0
-    call $~onstore
-    i32.const 1904
-    i32.store
-    i32.const 1904
-    i32.const 381825832
-    i32.const 19
-    i32.const 3
-    i32.const 0
-    call $~lib/index/__coverDeclare
-    global.get $~lib/memory/__stack_pointer
-    i32.const 0
-    i32.const 4
-    i32.const 0
-    call $~onstore
-    i32.const 1904
-    i32.store
-    i32.const 1904
     i32.const 1781577054
     i32.const 24
     i32.const 75
@@ -20731,10 +20660,94 @@
     global.set $assembly/__tests__/Wallet.spec/OWNER
     call $start:node_modules/@as-pect/assembly/assembly/internal/Expectation
     call $start:node_modules/@as-pect/assembly/assembly/internal/Reflect
+    global.get $~lib/memory/__stack_pointer
+    i32.const 4
+    i32.sub
+    global.set $~lib/memory/__stack_pointer
+    global.get $~lib/memory/__stack_pointer
+    i32.const 19972
+    i32.lt_s
+    br_if $folding-inner0
+    global.get $~lib/memory/__stack_pointer
+    i32.const 0
+    i32.const 4
+    i32.const 0
+    call $~onstore
+    i32.const 0
+    i32.store
+    global.get $~lib/memory/__stack_pointer
+    i32.const 0
+    i32.const 4
+    i32.const 0
+    call $~onstore
+    i32.const 17616
+    i32.store
+    i32.const 17616
+    i32.const 855870159
+    i32.const 7
+    i32.const 49
+    i32.const 1
+    call $~lib/index/__coverDeclare
+    global.get $~lib/memory/__stack_pointer
+    i32.const 0
+    i32.const 4
+    i32.const 0
+    call $~onstore
+    i32.const 17616
+    i32.store
+    i32.const 17616
+    i32.const 1354937306
+    i32.const 7
+    i32.const 1
+    i32.const 0
+    call $~lib/index/__coverDeclare
+    global.get $~lib/memory/__stack_pointer
+    i32.const 0
+    i32.const 4
+    i32.const 0
+    call $~onstore
+    i32.const 17616
+    i32.store
+    i32.const 17616
+    i32.const -387839943
+    i32.const 13
+    i32.const 40
+    i32.const 1
+    call $~lib/index/__coverDeclare
+    global.get $~lib/memory/__stack_pointer
+    i32.const 0
+    i32.const 4
+    i32.const 0
+    call $~onstore
+    i32.const 17616
+    i32.store
+    i32.const 17616
+    i32.const 175360833
+    i32.const 14
+    i32.const 19
+    i32.const 2
+    call $~lib/index/__coverDeclare
+    global.get $~lib/memory/__stack_pointer
+    i32.const 0
+    i32.const 4
+    i32.const 0
+    call $~onstore
+    i32.const 17616
+    i32.store
+    i32.const 17616
+    i32.const -1116785682
+    i32.const 12
+    i32.const 1
+    i32.const 0
+    call $~lib/index/__coverDeclare
+    global.get $~lib/memory/__stack_pointer
+    i32.const 4
+    i32.add
+    global.set $~lib/memory/__stack_pointer
     i32.const 123
     i32.const 0
     i32.const 13
-    i32.const 17856
+    i32.const 18000
     call $~lib/rt/__newArray
     local.set $0
     global.get $~lib/memory/__stack_pointer
@@ -20759,10 +20772,10 @@
     i32.const 4
     i32.const 0
     call $~onstore
-    i32.const 18720
+    i32.const 18864
     i32.store offset=4
     i32.const 12512
-    i32.const 18720
+    i32.const 18864
     call $node_modules/@as-pect/assembly/assembly/internal/Test/describe
     global.get $~lib/memory/__stack_pointer
     i32.const 8
@@ -24835,7 +24848,7 @@
    i32.const 4
    i32.const 0
    call $~onstore
-   i32.const 18176
+   i32.const 18320
    i32.load
    local.tee $0
    i32.store
@@ -24862,7 +24875,7 @@
     local.get $2
     i32.const 2
     i32.shl
-    i32.const 18176
+    i32.const 18320
     i32.add
     i32.load
     local.tee $4
@@ -24924,7 +24937,7 @@
     local.get $2
     i32.const 2
     i32.shl
-    i32.const 18176
+    i32.const 18320
     i32.add
     i32.load
     local.tee $5
@@ -24984,7 +24997,7 @@
   local.get $3
   i32.const 2
   i32.shl
-  i32.const 18176
+  i32.const 18320
   i32.add
   i32.load
   local.tee $2
