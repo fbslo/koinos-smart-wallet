@@ -47,10 +47,8 @@ export class Wallet {
     const contractIdString = Arrays.toHexString(contractId);
 
     // Prepare original signed message
-    const message       = `koinos`; //`koinos-smart-wallet-call-${contractIdString}-${entryPoint}-${contractArgs}-${nonce}`;
-
-    const prefix        = `\x19Ethereum Signed Message:\n${message.length}`;
-    const signedMessage = prefix + message;
+    const message       = `koinos`; // `koinos-smart-wallet-call-${contractIdString}-${entryPoint}-${contractArgs}-${nonce}`;
+    const signedMessage = `\x19Ethereum Signed Message:\n${message.length}${message}`;
 
     // Hash recreated message and recover public key from provided signature
     let multihashBytes  = System.hash(Crypto.multicodec.keccak_256, StringBytes.stringToBytes(signedMessage));
