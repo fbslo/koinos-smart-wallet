@@ -16,9 +16,9 @@ export class Wallet {
   }
 
   /// @dev Authorization override to prevent contract upgrades after initialization
-  authorize(args: authority.authorize_arguments): authority.authorize_result {
-    return new authority.authorize_result(!this.isInitialized);
-  }
+  // authorize(args: authority.authorize_arguments): authority.authorize_result {
+  //   return new authority.authorize_result(!this.isInitialized);
+  // }
 
   /// @dev Sets first contract owner and disables contract upgradeability
   initialize(args: wallet.initialize_arguments): wallet.initialize_result {
